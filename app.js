@@ -1,6 +1,6 @@
 import React,{ Component } from 'react';
 import {Sylesheet, View, Text} from 'react-native';
-import HomeScreen from './screens/HomeScreen';
+import HomeScreen from './HomeScreen';
 
 export default class App extends Component{
   render(){
